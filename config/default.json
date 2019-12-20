@@ -1,0 +1,5 @@
+{
+  "main": {
+    "corsOrigin": "localhost:8080"
+  }
+}
